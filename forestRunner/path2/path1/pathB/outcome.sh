@@ -1,0 +1,1 @@
+echo "Good job you're safe!"
